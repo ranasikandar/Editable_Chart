@@ -1,0 +1,17 @@
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.formchart.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.Properties.Resources.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.csproj.GenerateResource.Cache
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.csproj.ResolveComReference.cache
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\bin\Debug\EditableChart.exe
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\bin\Debug\EditableChart.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.exe
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.pdb
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.AudioGram.resources
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\bin\Debug\EditableChart.exe.config
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\bin\Debug\Reports\PrintAudiogram.rpt
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\bin\Debug\Reports\PrintAudiogram.cs
+C:\Users\primeit\Documents\Visual Studio 2010\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.ReportViwer.resources
+E:\Projects\Chart\EditableChart\bin\Debug\EditableChart.exe.config
+E:\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.csproj.ResolveComReference.cache
+E:\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.exe
+E:\Projects\Chart\EditableChart\obj\x86\Debug\EditableChart.pdb
